@@ -48,7 +48,7 @@ const LoadingIndicator = () => {
         color: '#9ca3af',
         fontStyle: 'italic'
       }}>
-        This usually takes 15-30 seconds
+        This usually takes 60-70 seconds
       </div>
     </div>
   );
